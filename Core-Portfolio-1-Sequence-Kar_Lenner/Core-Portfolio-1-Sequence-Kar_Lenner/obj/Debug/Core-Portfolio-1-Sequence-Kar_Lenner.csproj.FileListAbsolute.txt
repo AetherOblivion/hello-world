@@ -1,0 +1,7 @@
+C:\Users\karte\source\repos\Core-Portfolio-1-Sequence-Kar_Lenner\Core-Portfolio-1-Sequence-Kar_Lenner\obj\Debug\Core-Portfolio-1-Sequence-Kar_Lenner.csprojAssemblyReference.cache
+C:\Users\karte\source\repos\Core-Portfolio-1-Sequence-Kar_Lenner\Core-Portfolio-1-Sequence-Kar_Lenner\obj\Debug\Core-Portfolio-1-Sequence-Kar_Lenner.csproj.CoreCompileInputs.cache
+C:\Users\karte\source\repos\Core-Portfolio-1-Sequence-Kar_Lenner\Core-Portfolio-1-Sequence-Kar_Lenner\bin\Debug\Core-Portfolio-1-Sequence-Kar_Lenner.exe.config
+C:\Users\karte\source\repos\Core-Portfolio-1-Sequence-Kar_Lenner\Core-Portfolio-1-Sequence-Kar_Lenner\bin\Debug\Core-Portfolio-1-Sequence-Kar_Lenner.exe
+C:\Users\karte\source\repos\Core-Portfolio-1-Sequence-Kar_Lenner\Core-Portfolio-1-Sequence-Kar_Lenner\bin\Debug\Core-Portfolio-1-Sequence-Kar_Lenner.pdb
+C:\Users\karte\source\repos\Core-Portfolio-1-Sequence-Kar_Lenner\Core-Portfolio-1-Sequence-Kar_Lenner\obj\Debug\Core-Portfolio-1-Sequence-Kar_Lenner.exe
+C:\Users\karte\source\repos\Core-Portfolio-1-Sequence-Kar_Lenner\Core-Portfolio-1-Sequence-Kar_Lenner\obj\Debug\Core-Portfolio-1-Sequence-Kar_Lenner.pdb
